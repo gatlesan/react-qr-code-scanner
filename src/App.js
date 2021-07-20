@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <p>Read QR code using webRTC and JsQR library</p>
-      <b>Please align QR with the scanner</b>
+      <p><b>Please align QR with the scanner</b></p>
       <QrContainer />
     </div>
   );
